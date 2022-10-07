@@ -1,7 +1,7 @@
 
 
 # streamlit_app.py
-
+python -m pip install -r requirements_37.reqs
 import streamlit as st
 import snowflake.connector
 
